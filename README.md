@@ -27,7 +27,7 @@ Welcome to my personal website! This website serves as my online portfolio and s
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/eldadgishinge/eldadgishinge.github.io.git`.
+1. Clone this repository: `git clone https://github.com/eldadgishinge/eldad_Resume_site.git`.
 2. Open the `index.html` file in your web browser to view the website locally.
 
 ## Usage
